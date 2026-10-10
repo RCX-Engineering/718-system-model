@@ -2,7 +2,7 @@
 
 An independent, interactive knowledge graph modeling the electrical architecture of the Porsche 718 (982).
 
-**[Open `Electrical_System_for_Porsche_718.html`](Electrical_System_for_Porsche_718.html)**
+**[Open the interactive 718 Electrical System Model](https://rcx-engineering.github.io/718-system-model/Electrical_System_for_Porsche_718.html)**
 
 > This model may contain errors and omissions. It is provided as a reference to fellow enthusiasts, but use at your own risk. Please consider contributing improvements.
 
@@ -38,7 +38,7 @@ The resulting graph allows the vehicle electrical system to be examined at multi
 
 ## Interactive Visualization
 
-`Electrical_System_for_Porsche_718.html` is a self-contained browser application.
+[`Electrical_System_for_Porsche_718.html`](https://rcx-engineering.github.io/718-system-model/Electrical_System_for_Porsche_718.html) is a self-contained browser application.
 
 The visualization is generated dynamically from the underlying knowledge graph rather than being copied from or rendered from conventional wiring diagrams. The graph can therefore be explored according to relationships in the data instead of being limited to the organization and presentation of traditional schematic documentation.
 
@@ -79,7 +79,7 @@ The standalone HTML file therefore contains both:
 
 ## Reusable Knowledge-Graph Creation Skill
 
-[`SKILL-wiring_diagram.md`](SKILL-wiring_diagram.md) contains the reusable AI-agent skill and engineering workflow used to create this type of electrical-system knowledge graph.
+[`SKILL-wiring_diagram.zip`](SKILL-wiring_diagram.zip) contains the reusable AI-agent skill and engineering workflow used to create this type of electrical-system knowledge graph.
 
 The skill is provided so that others can apply the same approach to additional vehicles, machinery, equipment, or other complex engineered systems.
 
@@ -230,7 +230,7 @@ These licenses apply only to rights actually held by the contributors to this pr
 
 ## Repository Contents
 
-### [`Electrical_System_for_Porsche_718.html`](Electrical_System_for_Porsche_718.html)
+### [Electrical System Model — Interactive Viewer](https://rcx-engineering.github.io/718-system-model/Electrical_System_for_Porsche_718.html)
 
 Standalone interactive electrical-system knowledge graph containing:
 
@@ -239,7 +239,7 @@ Standalone interactive electrical-system knowledge graph containing:
 - The electrical-system model
 - The embedded plain-text openCypher labeled property graph
 
-### [`SKILL-wiring_diagram.md`](SKILL-wiring_diagram.md)
+### [`SKILL-wiring_diagram.zip`](SKILL-wiring_diagram.zip)
 
 Reusable AI-agent skill and engineering methodology for creating similar electrical-system knowledge graphs from available technical information.
 
